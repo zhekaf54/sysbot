@@ -3524,4 +3524,4 @@ client.on('guildMemberAdd', member => {
 return channel.send("")
     }
     )});
-client.login(process.env.BOT_TOKEN)
+client.login(process.env.Nzk1Mzk4NzI2MjczMzM1MzA4.X_Iyyg.bR7OmK3ijMznJWM5DOWuR58QjH8)
