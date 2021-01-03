@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const devs = ['357961207019470851'];
+const devs=['687358095164309543'];
 const db = require('quick.db');
 const premium = ['357961207019470851']
 const client = new Discord.Client();   
@@ -3524,4 +3524,4 @@ client.on('guildMemberAdd', member => {
 return channel.send("")
     }
     )});
-client.login(process.env.BOT_TOKEN)
+client.login(process.env.Nzk1Mzk4NzI2MjczMzM1MzA4.X_Iyyg.bR7OmK3ijMznJWM5DOWuR58QjH8)
